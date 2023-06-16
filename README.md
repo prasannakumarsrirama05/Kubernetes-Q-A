@@ -1,14 +1,6 @@
 # Kubernetes-Q-A
 # Kubernetes Glossary
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your_username/kubernetes-glossary/blob/main/LICENSE)
-[![Build Status](https://img.shields.io/travis/your_username/kubernetes-glossary/main.svg)](https://travis-ci.org/your_username/kubernetes-glossary)
-[![Coverage Status](https://img.shields.io/coveralls/your_username/kubernetes-glossary/main.svg)](https://coveralls.io/github/your_username/kubernetes-glossary)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your_username/kubernetes-glossary/pulls)
-[![GitHub Issues](https://img.shields.io/github/issues/your_username/kubernetes-glossary.svg)](https://github.com/your_username/kubernetes-glossary/issues)
-
-![Kubernetes Glossary](https://your_username.github.io/kubernetes-glossary/assets/images/logo.png)
-
 This glossary provides definitions for various terms and concepts related to Kubernetes:
 
 - **Affinity**: In Kubernetes, affinity is a set of rules that give hints to the scheduler about where to place pods. It helps in specifying the preferred or required locations for running pods based on node attributes, pod labels, or inter-pod relationships.
